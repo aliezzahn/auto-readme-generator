@@ -1,0 +1,22 @@
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables file
+.env
+
+# Log files
+*.log
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# System files
+*.swp

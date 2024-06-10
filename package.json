@@ -1,0 +1,15 @@
+{
+  "name": "auto-readme-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "generate-readme": "node generate-readme.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Generate README.md file automatically from project code comments.",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
