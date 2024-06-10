@@ -1,11 +1,22 @@
 {
   "name": "auto-readme-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "generate-readme": "node generate-readme.js"
   },
-  "keywords": [],
+  "keywords": [
+    "auto-readme",
+    "readme-generator",
+    "npm-package",
+    "nodejs",
+    "javascript",
+    "development",
+    "automation",
+    "documentation",
+    "code-comments",
+    "metadata"
+  ],
   "author": "",
   "license": "ISC",
   "description": "Generate README.md file automatically from project code comments.",
